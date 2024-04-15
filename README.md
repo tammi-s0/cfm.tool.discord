@@ -1,2 +1,2 @@
 # cfm.tool.discord
-cfm tool fre discord tool tool token 
+cfm tool free discord tool token 
